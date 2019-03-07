@@ -1,1 +1,171 @@
 @charset "UTF-8";
+
+/*
+	Name 			: Aussie Palette
+	Date 			: 8 March 2019
+	Author 			: Amir Shokri
+	Email 			: amirsh.nll@gmail.com
+	Url 			: https://github.com/amirsh-nll/Flat-UI-Colors
+	Description 	: Aussie Palette by Kate Hoolahan from 🇦🇺 (https://flatuicolors.com/palette/au)
+*/
+
+
+/* Beekeeper */
+.Beekeeper {
+	color: #f6e58d;
+}
+.Beekeeper-bg {
+	background-color: #f6e58d;
+}
+
+/* Turbo */
+.Turbo {
+	color: #f9ca24;
+}
+.Turbo-bg {
+	background-color: #f9ca24;
+}
+
+/* Middle Blue */
+.Middle-Blue {
+	color: #7ed6df;
+}
+.Middle-Blue-bg {
+	background-color: #7ed6df;
+}
+
+/* Greenland Green */
+.Greenland-Green {
+	color: #22a6b3;
+}
+.Greenland-Green-bg {
+	background-color: #22a6b3;
+}
+
+/* Spiced Nectarine */
+.Spiced-Nectarine {
+	color: #ffbe76;
+}
+.Spiced-Nectarine-bg {
+	background-color: #ffbe76;
+}
+
+/* Quince Jelly */
+.Quince-Jelly {
+	color: #f0932b;
+}
+.Quince-Jelly-bg {
+	background-color: #f0932b;
+}
+
+/* Heliotrope */
+.Heliotrope {
+	color: #e056fd;
+}
+.Heliotrope-bg {
+	background-color: #e056fd;
+}
+
+/* Steel Pink */
+.Steel-Pink {
+	color: #be2edd;
+}
+.Steel-Pink-bg {
+	background-color: #be2edd;
+}
+
+/* Pink Glamour */
+.Pink-Glamour {
+	color: #ff7979;
+}
+.Pink-Glamour-bg {
+	background-color: #ff7979;
+}
+
+/* Carmine Pink */
+.Carmine-Pink {
+	color: #eb4d4b;
+}
+.Carmine-Pink-bg {
+	background-color: #eb4d4b;
+}
+
+/* Exodus Fruit */
+.Exodus-Fruit {
+	color: #686de0;
+}
+.Exodus-Fruit-bg {
+	background-color: #686de0;
+}
+
+/* Blurple */
+.Blurple {
+	color: #4834d4;
+}
+.Blurple-bg {
+	background-color: #4834d4;
+}
+
+/* June Bud */
+.June-Bud {
+	color: #badc58;
+}
+.June-Bud-bg {
+	background-color: #badc58;
+}
+
+/* Pure Apple */
+.Pure-Apple {
+	color: #6ab04c;
+}
+.Pure-Apple-bg {
+	background-color: #6ab04c;
+}
+
+/* Deep Koamaru */
+.Deep-Koamaru {
+	color: #30336b;
+}
+.Deep-Koamaru-bg {
+	background-color: #30336b;
+}
+
+/* Deep Cove */
+.Deep-Cove {
+	color: #130f40;
+}
+.Deep-Cove-bg {
+	background-color: #130f40;
+}
+
+/* Coastal Breeze */
+.Coastal-Breeze {
+	color: #dff9fb;
+}
+.Coastal-Breeze-bg {
+	background-color: #dff9fb;
+}
+
+/* Hint of Ice Pack */
+.Hint-of-Ice-Pack {
+	color: #c7ecee;
+}
+.Hint-of-Ice-Pack-bg {
+	background-color: #c7ecee;
+}
+
+/* Soaring Eagle bg */
+.Soaring-Eagle-bg {
+	background-color: #95afc0;
+}
+.Soaring-Eagle {
+	color: #95afc0;
+}
+
+/* Wizard Grey */
+.Wizard-Grey {
+	color: #535c68;
+}
+.Wizard-Grey-bg {
+	background-color: #535c68;
+}
