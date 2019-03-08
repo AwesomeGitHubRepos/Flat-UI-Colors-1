@@ -1,62 +1,171 @@
 @charset "UTF-8";
 
+/*
+	Name 			: Flat UI Palette v1
+	Date 			: 9 March 2019
+	Author 			: Amir Shokri
+	Email 			: amirsh.nll@gmail.com
+	Url 			: https://github.com/amirsh-nll/Flat-UI-Colors
+	Description 	: Flat UI Palette v1 by Flat UI Colors (https://flatuicolors.com/palette/defo)
+*/
+
+
+/* TURQUOISE */
 .TURQUOISE {
 	color : #1abc9c;
 }
+.TURQUOISE-bg {
+	background-color : #1abc9c;
+}
+
+/* GREEN SEA */
 .GREEN-SEA {
 	color: #16a085;
 }
+.GREEN-SEA-bg {
+	background-color: #16a085;
+}
+
+/* SUN FLOWER */
 .SUN-FLOWER {
 	color: #f1c40f;
 }
+.SUN-FLOWER-bg {
+	background-color: #f1c40f;
+}
+
+/* ORANGE */
 .ORANGE {
 	color: #f39c12;
 }
+.ORANGE-bg {
+	background-color: #f39c12;
+}
+
+/* EMERALD */
 .EMERALD {
 	color: #2ecc71;
 }
+.EMERALD-bg {
+	background-color: #2ecc71;
+}
+
+/* NEPHRITIS */
 .NEPHRITIS {
 	color: #27ae60;
 }
+.NEPHRITIS-bg {
+	background-color: #27ae60;
+}
+
+/* CARROT */
 .CARROT {
 	color: #e67e22;
 }
+.CARROT-bg {
+	background-color: #e67e22;
+}
+
+/* PUMPKIN */
 .PUMPKIN {
 	color: #d35400;
 }
+.PUMPKIN-bg {
+	background-color: #d35400;
+}
+
+/* PETER RIVER */
 .PETER-RIVER {
 	color: #3498db;
 }
+.PETER-RIVER-bg {
+	background-color: #3498db;
+}
+
+/* BELIZE HOLE */
 .BELIZE-HOLE {
 	color: #2980b9
 }
+.BELIZE-HOLE-bg {
+	background-color: #2980b9
+}
+
+/* ALIZARIN */
 .ALIZARIN {
 	color: #e74c3c;
 }
+.ALIZARIN-bg {
+	background-color: #e74c3c;
+}
+
+/* POMEGRANATE */
 .POMEGRANATE {
 	color: #c0392b;
 }
+.POMEGRANATE-bg {
+	background-color: #c0392b;
+}
+
+/* AMETHYST */
 .AMETHYST {
 	color: #9b59b6;
 }
+.AMETHYST-bg {
+	background-color: #9b59b6;
+}
+
+/* WISTERIA */
 .WISTERIA {
 	color: #8e44ad;
 }
+.WISTERIA-bg {
+	background-color: #8e44ad;
+}
+
+/* CLOUDS */
 .CLOUDS {
 	color: #ecf0f1;
 }
+.CLOUDS-bg {
+	background-color: #ecf0f1;
+}
+
+/* SILVER */
 .SILVER {
 	color: #bdc3c7;
 }
+.SILVER-bg {
+	background-color: #bdc3c7;
+}
+
+/* WET ASPHALT */
 .WET-ASPHALT {
 	color: #34495e;
 }
+.WET-ASPHALT-bg {
+	background-color: #34495e;
+}
+
+/* MIDNIGHT BLUE */
 .MIDNIGHT-BLUE {
 	color: #2c3e50
 }
+.MIDNIGHT-BLUE-bg {
+	background-color: #2c3e50
+}
+
+/* CONCRETE */
 .CONCRETE {
 	color: #95a5a6;
 }
+.CONCRETE-bg {
+	background-color: #95a5a6;
+}
+
+/* ASBESTOS */
 .ASBESTOS {
 	color: #7f8c8d;
+}
+.ASBESTOS-bg {
+	background-color: #7f8c8d;
 }

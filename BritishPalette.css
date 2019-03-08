@@ -1,61 +1,171 @@
 @charset "UTF-8";
+
+/*
+	Name 			: British Palette
+	Date 			: 9 March 2019
+	Author 			: Amir Shokri
+	Email 			: amirsh.nll@gmail.com
+	Url 			: https://github.com/amirsh-nll/Flat-UI-Colors
+	Description 	: British Palette by Jan Losert from 🇬🇧 (https://flatuicolors.com/palette/gb)
+*/
+
+
+/* Protoss Pylon */
 .Protoss-Pylon {
 	color: #00a8ff;
 }
+.Protoss-Pylon-bg {
+	background-color: #00a8ff;
+}
+
+/* Vanadyl Blue */
 .Vanadyl-Blue {
 	color: #0097e6;
 }
+.Vanadyl-Blue-bg {
+	background-color: #0097e6;
+}
+
+/* Nasturcian Flower */
 .Nasturcian-Flower {
 	color: #e84118;
 }
+.Nasturcian-Flower-bg {
+	background-color: #e84118;
+}
+
+/* Harley Davidson Orange */
 .Harley-Davidson-Orange {
 	color: #c23616;
 }
+.Harley-Davidson-Orange-bg {
+	background-color: #c23616;
+}
+
+/* Periwinkle */
 .Periwinkle {
 	color: #9c88ff;
 }
+.Periwinkle-bg {
+	background-color: #9c88ff;
+}
+
+/* Matt Purple */
 .Matt-Purple {
 	color: #8c7ae6;
 }
+.Matt-Purple-bg {
+	background-color: #8c7ae6;
+}
+
+/* Lynx White */
 .Lynx-White {
 	color: #f5f6fa;
 }
+.Lynx-White-bg {
+	background-color: #f5f6fa;
+}
+
+/* Hint of Pensive */
 .Hint-of-Pensive {
 	color: #dcdde1;
 }
+.Hint-of-Pensive-bg {
+	background-color: #dcdde1;
+}
+
+/* Rise N Shine */
 .Rise-N-Shine {
 	color: #fbc531;
 }
+.Rise-N-Shine-bg {
+	background-color: #fbc531;
+}
+
+/* Nanohanacha Gold */
 .Nanohanacha-Gold {
 	color: #e1b12c;
 }
+.Nanohanacha-Gold-bg {
+	background-color: #e1b12c;
+}
+
+/* Blueberry Soda */
 .Blueberry-Soda {
 	color: #7f8fa6;
 }
+.Blueberry-Soda-bg {
+	background-color: #7f8fa6;
+}
+
+/* Chain Gang Grey */
 .Chain-Gang-Grey {
 	color: #718093;
 }
+.Chain-Gang-Grey-bg {
+	background-color: #718093;
+}
+
+/* Download Progress */
 .Download-Progress {
 	color: #4cd137;
 }
+.Download-Progress-bg {
+	background-color: #4cd137;
+}
+
+/* Skirret Green */
 .Skirret-Green {
 	color: #44bd32;
 }
+.Skirret-Green-bg {
+	background-color: #44bd32;
+}
+
+/* Mazarine Blue */
 .Mazarine-Blue {
 	color: #273c75;
 }
+.Mazarine-Blue-bg {
+	background-color: #273c75;
+}
+
+/* Pico Void */
 .Pico-Void {
 	color: #192a56;
 }
+.Pico-Void-bg {
+	background-color: #192a56;
+}
+
+/* Seabrook */
 .Seabrook {
 	color: #487eb0;
 }
+.Seabrook-bg {
+	background-color: #487eb0;
+}
+
+/* Naval */
 .Naval {
 	color: #40739e;
 }
+.Naval-bg {
+	background-color: #40739e;
+}
+
+/* Blue Nights */
 .Blue-Nights {
 	color: #353b48;
 }
+.Blue-Nights-bg {
+	background-color: #353b48;
+}
+
+/* Electromagnetic */
 .Electromagnetic {
 	color: #2f3640;
+}
+.Electromagnetic-bg {
+	background-color: #2f3640;
 }
