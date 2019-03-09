@@ -1,1 +1,172 @@
 @charset "UTF-8";
+
+/*
+	Name 			: French Palette
+	Date 			: 10 March 2019
+	Author 			: Amir Shokri
+	Email 			: amirsh.nll@gmail.com
+	Url 			: https://github.com/amirsh-nll/Flat-UI-Colors
+	Description 	: French Palette by Léa Poisson from 🇫🇷 (https://flatuicolors.com/palette/fr)
+*/
+
+
+/* Flat Flesh */
+.Flat-Flesh {
+	color: #fad390;
+}
+.Flat-Flesh-bg {
+	background-color: #fad390;
+}
+
+/* Squash Blossom */
+.Squash-Blossom {
+	color: #f6b93b;
+}
+.Squash-Blossom-bg {
+	background-color: #f6b93b;
+}
+
+/* Iceland Poppy */
+.Iceland-Poppy {
+	color: #fa983a;
+}
+.Iceland-Poppy-bg {
+	background-color: #fa983a;
+}
+
+
+/* Carrot Orange */
+.Carrot-Orange {
+	color: #e58e26;
+}
+.Carrot-Orange-bg {
+	background-color: #e58e26;
+}
+
+/* Melon Melody */
+.Melon-Melody {
+	color: #f8c291;
+}
+.Melon-Melody-bg {
+	background-color: #f8c291;
+}
+
+/* Mandarin Red */
+.Mandarin-Red {
+	color: #e55039;
+}
+.Mandarin-Red-bg {
+	background-color: #e55039;
+}
+
+/* Tomato Red */
+.Tomato-Red {
+	color: #eb2f06;
+}
+.Tomato-Red-bg {
+	background-color: #eb2f06;
+}
+
+/* Jalapeno Red */
+.Jalapeno-Red {
+	color: #b71540;
+}
+.Jalapeno-Red-bg {
+	background-color: #b71540;
+}
+
+/* Livid */
+.Livid {
+	color: #6a89cc;
+}
+.Livid-bg {
+	background-color: #6a89cc;
+}
+
+/* Azraq Blue */
+.Azraq-Blue {
+	color: #4a69bd;
+}
+.Azraq-Blue-bg {
+	background-color: #4a69bd;
+}
+
+/* Yuè Guāng Lán Blue */
+.Yue-Guang-Lan-Blue {
+	color: #1e3799;
+}
+.Yue-Guang-Lan-Blue-bg {
+	background-color: #1e3799;
+}
+
+/* Dark Sapphire */
+.Dark-Sapphire {
+	color: #0c2461;
+}
+.Dark-Sapphire-bg {
+	background-color: #0c2461;
+}
+
+/* Spray */
+.Spray {
+	color: #82ccdd;
+}
+.Spray-bg {
+	background-color: #82ccdd;
+}
+
+/* Dupain */
+.Dupain {
+	color: #60a3bc;
+}
+.Dupain-bg {
+	background-color: #60a3bc;
+}
+
+/* Good Samaritan */
+.Good-Samaritan {
+	color: #3c6382;
+}
+.Good-Samaritan-bg {
+	background-color: #3c6382;
+}
+
+/* Forest Blues */
+.Forest-Blues {
+	color: #0a3d62;
+}
+.Forest-Blues-bg {
+	background-color: #0a3d62;
+}
+
+/* Paradise Green */
+.Paradise-Green {
+	color: #b8e994;
+}
+.Paradise-Green-bg {
+	background-color: #b8e994;
+}
+
+/* Aurora Green */
+.Aurora-Green {
+	color: #78e08f;
+}
+.Aurora-Green-bg {
+	background-color: #78e08f;
+}
+
+/* Waterfall */
+.Waterfall {
+	color: #38ada9;
+}
+.Waterfall-bg {
+	background-color: #38ada9;
+}
+
+/* Reef Encounter */
+.Reef-Encounter {
+	color: #079992;
+}
+.Reef-Encounter-bg {
+	background-color: #079992;
+}
