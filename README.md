@@ -7,5 +7,5 @@ Author 			: Amir Shokri <br/>
 Email 			: amirsh.nll@gmail.com <br/>
 Url 			: https://github.com/amirsh-nll/Flat-UI-Colors <br/>
 Description 	: created library flat ui palette color from https://flatuicolors.com <br/>
-Palette Count 	: 15palette <br/>
-Color Count 	: 300colors <br/>
+Palette Count 	: 14palette <br/>
+Color Count 	: 280colors <br/>
