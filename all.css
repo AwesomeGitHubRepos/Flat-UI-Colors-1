@@ -1,0 +1,2282 @@
+@charset "UTF-8";
+
+/*
+	Name 			: All UI Colors Palette
+	Date 			: 13 March 2019
+	Author 			: Amir Shokri
+	Email 			: amirsh.nll@gmail.com
+	Url 			: https://github.com/amirsh-nll/Flat-UI-Colors
+	Description 	: All UI Colors Palette (https://flatuicolors.com/)
+*/
+
+
+/* ========== American Palette ========== */
+/* Light Greenish Blue */
+.Light-Greenish-Blue {
+	color: #55efc4;
+}
+.Light-Greenish-Blue-bg {
+	background-color: #55efc4;
+}
+
+/* Mint Leaf */
+.Mint-Leaf {
+	color: #00b894;
+}
+.Mint-Leaf-bg {
+	background-color: #00b894;
+}
+
+/* Sour Lemon */
+.Sour-Lemon {
+	color: #ffeaa7;
+}
+.Sour-Lemon-bg {
+	background-color: #ffeaa7;
+}
+
+/* Bright Yarrow */
+.Bright-Yarrow {
+	color: #fdcb6e;
+}
+.Bright-Yarrow-bg {
+	background-color: #fdcb6e;
+}
+
+/* Faded Poster */
+.Faded-Poster {
+	color: #81ecec;
+}
+.Faded-Poster-bg {
+	background-color: #81ecec;
+}
+
+/* Robin's Egg Blue */
+.Robin-s-Egg-Blue {
+	color: #00cec9;
+}
+.Robin-s-Egg-Blue-bg {
+	background-color: #00cec9;
+}
+
+/* First Date */
+.First-Date {
+	color: #fab1a0;
+}
+.First-Date-bg {
+	background-color: #fab1a0;
+}
+
+/* Orangeville */
+.Orangeville {
+	color: #e17055;
+}
+.Orangeville-bg {
+	background-color: #e17055;
+}
+
+/* Green Darner Tail */
+.Green-Darner-Tail {
+	color: #74b9ff;
+}
+.Green-Darner-Tail-bg {
+	background-color: #74b9ff;
+}
+
+/* Electron Blue */
+.Electron-Blue {
+	color: #0984e3;
+}
+.Electron-Blue-bg {
+	background-color: #0984e3;
+}
+
+/* Pink Glamour */
+.Pink-Glamour {
+	color: #ff7675;
+}
+.Pink-Glamour-bg {
+	background-color: #ff7675;
+}
+
+/* Chi Gong */
+.Chi-Gong {
+	color: #d63031;
+}
+.Chi-Gong-bg {
+	background-color: #d63031;
+}
+
+/* Shy Moment */
+.Shy-Moment {
+	color: #a29bfe;
+}
+.Shy-Moment-bg {
+	background-color: #a29bfe;
+}
+
+/* Exodus Fruit */
+.Exodus-Fruit {
+	color: #6c5ce7;
+}
+.Exodus-Fruit-bg {
+	background-color: #6c5ce7;
+}
+
+/* Pico 8 Pink */
+.Pico-8-Pink {
+	color: #fd79a8;
+}
+.Pico-8-Pink-bg {
+	background-color: #fd79a8;
+}
+
+/* Prunus Avium */
+.Prunus-Avium {
+	color: #e84393;
+}
+.Prunus-Avium-bg {
+	background-color: #e84393;
+}
+
+/* City Lights */
+.City-Lights {
+	color: #dfe6e9;
+}
+.City-Lights-bg {
+	background-color: #dfe6e9;
+}
+
+/* Soothing-Breeze */
+.Soothing-Breeze {
+	color: #b2bec3;
+}
+.Soothing-Breeze-bg {
+	background-color: #b2bec3;
+}
+
+/* American River */
+.American-River {
+	color: #636e72;
+}
+.American-River-bg {
+	background-color: #636e72;
+}
+
+/* Dracula Orchid */
+.Dracula-Orchid {
+	color: #2d3436;
+}
+.Dracula-Orchid-bg {
+	background-color: #2d3436;
+}
+
+
+/* ========== Aussie Palette ========== */
+/* Beekeeper */
+.Beekeeper {
+	color: #f6e58d;
+}
+.Beekeeper-bg {
+	background-color: #f6e58d;
+}
+
+/* Turbo */
+.Turbo {
+	color: #f9ca24;
+}
+.Turbo-bg {
+	background-color: #f9ca24;
+}
+
+/* Middle Blue */
+.Middle-Blue {
+	color: #7ed6df;
+}
+.Middle-Blue-bg {
+	background-color: #7ed6df;
+}
+
+/* Greenland Green */
+.Greenland-Green {
+	color: #22a6b3;
+}
+.Greenland-Green-bg {
+	background-color: #22a6b3;
+}
+
+/* Spiced Nectarine */
+.Spiced-Nectarine {
+	color: #ffbe76;
+}
+.Spiced-Nectarine-bg {
+	background-color: #ffbe76;
+}
+
+/* Quince Jelly */
+.Quince-Jelly {
+	color: #f0932b;
+}
+.Quince-Jelly-bg {
+	background-color: #f0932b;
+}
+
+/* Heliotrope */
+.Heliotrope {
+	color: #e056fd;
+}
+.Heliotrope-bg {
+	background-color: #e056fd;
+}
+
+/* Steel Pink */
+.Steel-Pink {
+	color: #be2edd;
+}
+.Steel-Pink-bg {
+	background-color: #be2edd;
+}
+
+/* Pink Glamour */
+.Pink-Glamour {
+	color: #ff7979;
+}
+.Pink-Glamour-bg {
+	background-color: #ff7979;
+}
+
+/* Carmine Pink */
+.Carmine-Pink {
+	color: #eb4d4b;
+}
+.Carmine-Pink-bg {
+	background-color: #eb4d4b;
+}
+
+/* Exodus Fruit */
+.Exodus-Fruit {
+	color: #686de0;
+}
+.Exodus-Fruit-bg {
+	background-color: #686de0;
+}
+
+/* Blurple */
+.Blurple {
+	color: #4834d4;
+}
+.Blurple-bg {
+	background-color: #4834d4;
+}
+
+/* June Bud */
+.June-Bud {
+	color: #badc58;
+}
+.June-Bud-bg {
+	background-color: #badc58;
+}
+
+/* Pure Apple */
+.Pure-Apple {
+	color: #6ab04c;
+}
+.Pure-Apple-bg {
+	background-color: #6ab04c;
+}
+
+/* Deep Koamaru */
+.Deep-Koamaru {
+	color: #30336b;
+}
+.Deep-Koamaru-bg {
+	background-color: #30336b;
+}
+
+/* Deep Cove */
+.Deep-Cove {
+	color: #130f40;
+}
+.Deep-Cove-bg {
+	background-color: #130f40;
+}
+
+/* Coastal Breeze */
+.Coastal-Breeze {
+	color: #dff9fb;
+}
+.Coastal-Breeze-bg {
+	background-color: #dff9fb;
+}
+
+/* Hint of Ice Pack */
+.Hint-of-Ice-Pack {
+	color: #c7ecee;
+}
+.Hint-of-Ice-Pack-bg {
+	background-color: #c7ecee;
+}
+
+/* Soaring Eagle bg */
+.Soaring-Eagle-bg {
+	background-color: #95afc0;
+}
+.Soaring-Eagle {
+	color: #95afc0;
+}
+
+/* Wizard Grey */
+.Wizard-Grey {
+	color: #535c68;
+}
+.Wizard-Grey-bg {
+	background-color: #535c68;
+}
+
+
+/* ========== British Palette ========== */
+/* Protoss Pylon */
+.Protoss-Pylon {
+	color: #00a8ff;
+}
+.Protoss-Pylon-bg {
+	background-color: #00a8ff;
+}
+
+/* Vanadyl Blue */
+.Vanadyl-Blue {
+	color: #0097e6;
+}
+.Vanadyl-Blue-bg {
+	background-color: #0097e6;
+}
+
+/* Nasturcian Flower */
+.Nasturcian-Flower {
+	color: #e84118;
+}
+.Nasturcian-Flower-bg {
+	background-color: #e84118;
+}
+
+/* Harley Davidson Orange */
+.Harley-Davidson-Orange {
+	color: #c23616;
+}
+.Harley-Davidson-Orange-bg {
+	background-color: #c23616;
+}
+
+/* Periwinkle */
+.Periwinkle {
+	color: #9c88ff;
+}
+.Periwinkle-bg {
+	background-color: #9c88ff;
+}
+
+/* Matt Purple */
+.Matt-Purple {
+	color: #8c7ae6;
+}
+.Matt-Purple-bg {
+	background-color: #8c7ae6;
+}
+
+/* Lynx White */
+.Lynx-White {
+	color: #f5f6fa;
+}
+.Lynx-White-bg {
+	background-color: #f5f6fa;
+}
+
+/* Hint of Pensive */
+.Hint-of-Pensive {
+	color: #dcdde1;
+}
+.Hint-of-Pensive-bg {
+	background-color: #dcdde1;
+}
+
+/* Rise N Shine */
+.Rise-N-Shine {
+	color: #fbc531;
+}
+.Rise-N-Shine-bg {
+	background-color: #fbc531;
+}
+
+/* Nanohanacha Gold */
+.Nanohanacha-Gold {
+	color: #e1b12c;
+}
+.Nanohanacha-Gold-bg {
+	background-color: #e1b12c;
+}
+
+/* Blueberry Soda */
+.Blueberry-Soda {
+	color: #7f8fa6;
+}
+.Blueberry-Soda-bg {
+	background-color: #7f8fa6;
+}
+
+/* Chain Gang Grey */
+.Chain-Gang-Grey {
+	color: #718093;
+}
+.Chain-Gang-Grey-bg {
+	background-color: #718093;
+}
+
+/* Download Progress */
+.Download-Progress {
+	color: #4cd137;
+}
+.Download-Progress-bg {
+	background-color: #4cd137;
+}
+
+/* Skirret Green */
+.Skirret-Green {
+	color: #44bd32;
+}
+.Skirret-Green-bg {
+	background-color: #44bd32;
+}
+
+/* Mazarine Blue */
+.Mazarine-Blue {
+	color: #273c75;
+}
+.Mazarine-Blue-bg {
+	background-color: #273c75;
+}
+
+/* Pico Void */
+.Pico-Void {
+	color: #192a56;
+}
+.Pico-Void-bg {
+	background-color: #192a56;
+}
+
+/* Seabrook */
+.Seabrook {
+	color: #487eb0;
+}
+.Seabrook-bg {
+	background-color: #487eb0;
+}
+
+/* Naval */
+.Naval {
+	color: #40739e;
+}
+.Naval-bg {
+	background-color: #40739e;
+}
+
+/* Blue Nights */
+.Blue-Nights {
+	color: #353b48;
+}
+.Blue-Nights-bg {
+	background-color: #353b48;
+}
+
+/* Electromagnetic */
+.Electromagnetic {
+	color: #2f3640;
+}
+.Electromagnetic-bg {
+	background-color: #2f3640;
+}
+
+
+/* ========== Canadian Palette ========== */
+/* Jigglypuff */
+.Jigglypuff {
+	color: #ff9ff3;
+}
+.Jigglypuff-bg {
+	background-color: #ff9ff3;
+}
+
+/* Lián Hóng Lotus Pink */
+.Lian-Hong-Lotus-Pink {
+	color: #f368e0;
+}
+.Lian-Hong-Lotus-Pink-bg {
+	background-color: #f368e0;
+}
+
+/* Jade Dust */
+.Jade-Dust {
+	color: #00d2d3;
+}
+.Jade-Dust-bg {
+	background-color: #00d2d3;
+}
+
+/* Aqua Velvet */
+.Aqua-Velvet {
+	color: #01a3a4;
+}
+.Aqua-Velvet-bg {
+	background-color: #01a3a4;
+}
+
+/* Casandora Yellow */
+.Casandora-Yellow {
+	color: #feca57;
+}
+.Casandora-Yellow-bg {
+	background-color: #feca57;
+}
+
+/* Double Dragon Skin */
+.Double-Dragon-Skin {
+	color: #ff9f43;
+}
+.Double-Dragon-Skin-bg {
+	background-color: #ff9f43;
+}
+
+/* Joust Blue */
+.Joust-Blue {
+	color: #54a0ff;
+}
+.Joust-Blue-bg {
+	background-color: #54a0ff;
+}
+
+/* Bleu De France */
+.Bleu-De-France {
+	color: #2e86de;
+}
+.Bleu-De-France-bg {
+	background-color: #2e86de;
+}
+
+/* Pastel Red */
+.Pastel-Red {
+	color: #ff6b6b;
+}
+.Pastel-Red-bg {
+	background-color: #ff6b6b;
+}
+
+/* Amour */
+.Amour {
+	color: #ee5253;
+}
+.Amour-bg {
+	background-color: #ee5253;
+}
+
+/* Nasu-Purple */
+.Nasu-Purple {
+	color: #5f27cd;
+}
+.Nasu-Purple-bg {
+	background-color: #5f27cd;
+}
+
+/* Bluebell */
+.Bluebell {
+	color: #341f97;
+}
+.Bluebell-bg {
+	background-color: #341f97;
+}
+
+/* Megaman */
+.Megaman {
+	color: #48dbfb;
+}
+.Megaman-bg {
+	background-color: #48dbfb;
+}
+
+/* Cyanite */
+.Cyanite {
+	color: #0abde3;
+}
+.Cyanite-bg {
+	background-color: #0abde3;
+}
+
+/* Light Blue Ballerina */
+.Light-Blue-Ballerina {
+	color: #c8d6e5;
+}
+.Light-Blue-Ballerina-bg {
+	background-color: #c8d6e5;
+}
+
+/* Storm Petrel */
+.Storm-Petrel {
+	color: #8395a7;
+}
+.Storm-Petrel-bg {
+	background-color: #8395a7;
+}
+
+/* Wild Caribbean Green */
+.Wild-Caribbean-Green {
+	color: #1dd1a1;
+}
+.Wild-Caribbean-Green-bg {
+	background-color: #1dd1a1;
+}
+
+/* Dark Mountain Meadow */
+.Dark-Mountain-Meadow {
+	color: #10ac84;
+}
+.Dark-Mountain-Meadow-bg {
+	background-color: #10ac84;
+}
+
+/* Fuel Town */
+.Fuel-Town {
+	color: #576574;
+}
+.Fuel-Town-bg {
+	background-color: #576574;
+}
+
+/* Imperial Primer */
+.Imperial-Primer {
+	color: #222f3e;
+}
+.Imperial-Primer-bg {
+	background-color: #222f3e;
+}
+
+
+/* ========== Chinese Palette ========== */
+/* Golden Sand */
+.Golden-Sand {
+	color: #eccc68;
+}
+.Golden-Sand-bg {
+	background-color: #eccc68;
+}
+
+/* Orange */
+.Orange {
+	color : #ffa502;
+}
+.Orange-bg {
+	background-color : #ffa502;
+}
+
+/* Lime Soap */
+.Lime-Soap {
+	color: #7bed9f;
+}
+.Lime-Soap-bg {
+	background-color: #7bed9f;
+}
+
+/* UFO Green */
+.UFO-Green {
+	color: #2ed573;
+}
+.UFO-Green-bg {
+	background-color: #2ed573;
+}
+
+/* Coral */
+.Coral {
+	color: #ff7f50;
+}
+.Coral-bg {
+	background-color: #ff7f50;
+}
+
+/* Bruschetta Tomato */
+.Bruschetta-Tomato {
+	color: #ff6348;
+}
+.Bruschetta-Tomato-bg {
+	background-color: #ff6348;
+}
+
+/* French Sky Blue */
+.French-Sky-Blue {
+	color: #70a1ff;
+}
+.French-Sky-Blue-bg {
+	background-color: #70a1ff;
+}
+
+/* Clear Chill */
+.Clear-Chill {
+	color: #1e90ff;
+}
+.Clear-Chill-bg {
+	background-color: #1e90ff;
+}
+
+/* Wild Watermelon */
+.Wild-Watermelon {
+	color: #ff6b81;
+}
+.Wild-Watermelon-bg {
+	background-color: #ff6b81;
+}
+
+/* Watermelon */
+.Watermelon {
+	color: #ff4757;
+}
+.Watermelon-bg {
+	background-color: #ff4757;
+}
+
+/* Saturated Sky */
+.Saturated-Sky {
+	color: #5352ed;
+}
+.Saturated-Sky-bg {
+	background-color: #5352ed;
+}
+
+/* Bright Greek */
+.Bright-Greek {
+	color: #3742fa;
+}
+.Bright-Greek-bg {
+	background-color: #3742fa;
+}
+
+/* Peace */
+.Peace {
+	color: #a4b0be;
+}
+.Peace-bg {
+	background-color: #a4b0be;
+}
+
+/* Bay Wharf */
+.Bay-Wharf {
+	color: #747d8c;
+}
+.Bay-Wharf-bg {
+	background-color: #747d8c;
+}
+
+/* White */
+.White {
+	color: #ffffff;
+}
+.White-bg {
+	background-color: #ffffff;
+}
+
+/* Anti-Flash White */
+.Anti-Flash-White {
+	color: #f1f2f6;
+}
+.Anti-Flash-White-bg {
+	background-color: #f1f2f6;
+}
+
+/* Grisaille */
+.Grisaille {
+	color: #57606f;
+}
+.Grisaille-bg {
+	background-color: #57606f;
+}
+
+/* Prestige Blue */
+.Prestige-Blue {
+	color: #2f3542;
+}
+.Prestige-Blue-bg {
+	background-color: #2f3542;
+}
+
+/* City Lights */
+.City-Lights {
+	color: #dfe4ea;
+}
+.City-Lights-bg {
+	background-color: #dfe4ea;
+}
+
+/* Twinkle Blue */
+.Twinkle-Blue {
+	color: #ced6e0;
+}
+.Twinkle-Blue-bg {
+	background-color: #ced6e0;
+}
+
+
+/* ========== Dutch Palette ========== */
+/* Sunflower */
+.Sunflower {
+	color: #FFC312;
+}
+.Sunflower-bg {
+	background-color: #FFC312;
+}
+
+/* Radiant Yellow */
+.Radiant-Yellow {
+	color: #F79F1F;
+}
+.Radiant-Yellow-bg {
+	background-color: #F79F1F;
+}
+
+/* Puffins Bill */
+.Puffins-Bill {
+	color: #EE5A24;
+}
+.Puffins-Bill-bg {
+	background-color: #EE5A24;
+}
+
+/* Red Pigment */
+.Red-Pigment {
+	color: #EA2027;
+}
+.Red-Pigment-bg {
+	background-color: #EA2027;
+}
+
+/* Energos */
+.Energos {
+	color: #C4E538;
+}
+.Energos-bg {
+	background-color: #C4E538;
+}
+
+/* Android Green */
+.Android-Green {
+	color: #A3CB38;
+}
+.Android-Green-bg {
+	background-color: #A3CB38;
+}
+
+/* Pixelated Grass */
+.Pixelated-Grass {
+	color: #009432;
+}
+.Pixelated-Grass-bg {
+	background-color: #009432;
+}
+
+/* Turkish Aqua */
+.Turkish-Aqua {
+	color: #006266;
+}
+.Turkish-Aqua-bg {
+	background-color: #006266;
+}
+
+/* Blue Martina */
+.Blue-Martina {
+	color: #12CBC4;
+}
+.Blue-Martina-bg {
+	background-color: #12CBC4;
+}
+
+/* Mediterranean Sea */
+.Mediterranean-Sea {
+	color: #1289A7;
+}
+.Mediterranean-Sea-bg {
+	background-color: #1289A7;
+}
+
+/* Merchant Marine Blue */
+.Merchant-Marine-Blue {
+	color: #0652DD;
+}
+.Merchant-Marine-Blue-bg {
+	background-color: #0652DD;
+}
+
+/* 20000 Leagues Under the Sea */
+.c20000-Leagues-Under-the-Sea {
+	color: #1B1464;
+}
+.c20000-Leagues-Under-the-Sea-bg {
+	background-color: #1B1464;
+}
+
+/* Lavender Rose */
+.Lavender-Rose {
+	color: #FDA7DF;
+}
+.Lavender-Rose-bg {
+	background-color: #FDA7DF;
+}
+
+/* Lavender Tea */
+.Lavender-Tea {
+	color: #D980FA;
+}
+.Lavender-Tea-bg {
+	background-color: #D980FA;
+}
+
+/* Forgotten Purple */
+.Forgotten-Purple {
+	color: #9980FA;
+}
+.Forgotten-Purple-bg {
+	background-color: #9980FA;
+}
+
+/* Circumorbital Ring */
+.Circumorbital-Ring {
+	color: #5758BB;
+}
+.Circumorbital-Ring-bg {
+	background-color: #5758BB;
+}
+
+/* Bara Red */
+.Bara-Red {
+	color: #ED4C67;
+}
+.Bara-Red-bg {
+	background-color: #ED4C67;
+}
+
+/* Very Berry */
+.Very-Berry {
+	color: #B53471;
+}
+.Very-Berry-bg {
+	background-color: #B53471;
+}
+
+/* Hollyhock */
+.Hollyhock {
+	color: #833471;
+}
+.Hollyhock-bg {
+	background-color: #833471;
+}
+
+/* Magenta Purple */
+.Magenta-Purple {
+	color: #6F1E51;
+}
+.Magenta-Purple-bg {
+	background-color: #6F1E51;
+}
+
+
+/* ========== Flat UI Palette v1 ========== */
+/* TURQUOISE */
+.TURQUOISE {
+	color : #1abc9c;
+}
+.TURQUOISE-bg {
+	background-color : #1abc9c;
+}
+
+/* GREEN SEA */
+.GREEN-SEA {
+	color: #16a085;
+}
+.GREEN-SEA-bg {
+	background-color: #16a085;
+}
+
+/* SUN FLOWER */
+.SUN-FLOWER {
+	color: #f1c40f;
+}
+.SUN-FLOWER-bg {
+	background-color: #f1c40f;
+}
+
+/* ORANGE */
+.ORANGE {
+	color: #f39c12;
+}
+.ORANGE-bg {
+	background-color: #f39c12;
+}
+
+/* EMERALD */
+.EMERALD {
+	color: #2ecc71;
+}
+.EMERALD-bg {
+	background-color: #2ecc71;
+}
+
+/* NEPHRITIS */
+.NEPHRITIS {
+	color: #27ae60;
+}
+.NEPHRITIS-bg {
+	background-color: #27ae60;
+}
+
+/* CARROT */
+.CARROT {
+	color: #e67e22;
+}
+.CARROT-bg {
+	background-color: #e67e22;
+}
+
+/* PUMPKIN */
+.PUMPKIN {
+	color: #d35400;
+}
+.PUMPKIN-bg {
+	background-color: #d35400;
+}
+
+/* PETER RIVER */
+.PETER-RIVER {
+	color: #3498db;
+}
+.PETER-RIVER-bg {
+	background-color: #3498db;
+}
+
+/* BELIZE HOLE */
+.BELIZE-HOLE {
+	color: #2980b9
+}
+.BELIZE-HOLE-bg {
+	background-color: #2980b9
+}
+
+/* ALIZARIN */
+.ALIZARIN {
+	color: #e74c3c;
+}
+.ALIZARIN-bg {
+	background-color: #e74c3c;
+}
+
+/* POMEGRANATE */
+.POMEGRANATE {
+	color: #c0392b;
+}
+.POMEGRANATE-bg {
+	background-color: #c0392b;
+}
+
+/* AMETHYST */
+.AMETHYST {
+	color: #9b59b6;
+}
+.AMETHYST-bg {
+	background-color: #9b59b6;
+}
+
+/* WISTERIA */
+.WISTERIA {
+	color: #8e44ad;
+}
+.WISTERIA-bg {
+	background-color: #8e44ad;
+}
+
+/* CLOUDS */
+.CLOUDS {
+	color: #ecf0f1;
+}
+.CLOUDS-bg {
+	background-color: #ecf0f1;
+}
+
+/* SILVER */
+.SILVER {
+	color: #bdc3c7;
+}
+.SILVER-bg {
+	background-color: #bdc3c7;
+}
+
+/* WET ASPHALT */
+.WET-ASPHALT {
+	color: #34495e;
+}
+.WET-ASPHALT-bg {
+	background-color: #34495e;
+}
+
+/* MIDNIGHT BLUE */
+.MIDNIGHT-BLUE {
+	color: #2c3e50
+}
+.MIDNIGHT-BLUE-bg {
+	background-color: #2c3e50
+}
+
+/* CONCRETE */
+.CONCRETE {
+	color: #95a5a6;
+}
+.CONCRETE-bg {
+	background-color: #95a5a6;
+}
+
+/* ASBESTOS */
+.ASBESTOS {
+	color: #7f8c8d;
+}
+.ASBESTOS-bg {
+	background-color: #7f8c8d;
+}
+
+
+/* ========== French Palette ========== */
+/* Flat Flesh */
+.Flat-Flesh {
+	color: #fad390;
+}
+.Flat-Flesh-bg {
+	background-color: #fad390;
+}
+
+/* Squash Blossom */
+.Squash-Blossom {
+	color: #f6b93b;
+}
+.Squash-Blossom-bg {
+	background-color: #f6b93b;
+}
+
+/* Iceland Poppy */
+.Iceland-Poppy {
+	color: #fa983a;
+}
+.Iceland-Poppy-bg {
+	background-color: #fa983a;
+}
+
+
+/* Carrot Orange */
+.Carrot-Orange {
+	color: #e58e26;
+}
+.Carrot-Orange-bg {
+	background-color: #e58e26;
+}
+
+/* Melon Melody */
+.Melon-Melody {
+	color: #f8c291;
+}
+.Melon-Melody-bg {
+	background-color: #f8c291;
+}
+
+/* Mandarin Red */
+.Mandarin-Red {
+	color: #e55039;
+}
+.Mandarin-Red-bg {
+	background-color: #e55039;
+}
+
+/* Tomato Red */
+.Tomato-Red {
+	color: #eb2f06;
+}
+.Tomato-Red-bg {
+	background-color: #eb2f06;
+}
+
+/* Jalapeno Red */
+.Jalapeno-Red {
+	color: #b71540;
+}
+.Jalapeno-Red-bg {
+	background-color: #b71540;
+}
+
+/* Livid */
+.Livid {
+	color: #6a89cc;
+}
+.Livid-bg {
+	background-color: #6a89cc;
+}
+
+/* Azraq Blue */
+.Azraq-Blue {
+	color: #4a69bd;
+}
+.Azraq-Blue-bg {
+	background-color: #4a69bd;
+}
+
+/* Yuè Guāng Lán Blue */
+.Yue-Guang-Lan-Blue {
+	color: #1e3799;
+}
+.Yue-Guang-Lan-Blue-bg {
+	background-color: #1e3799;
+}
+
+/* Dark Sapphire */
+.Dark-Sapphire {
+	color: #0c2461;
+}
+.Dark-Sapphire-bg {
+	background-color: #0c2461;
+}
+
+/* Spray */
+.Spray {
+	color: #82ccdd;
+}
+.Spray-bg {
+	background-color: #82ccdd;
+}
+
+/* Dupain */
+.Dupain {
+	color: #60a3bc;
+}
+.Dupain-bg {
+	background-color: #60a3bc;
+}
+
+/* Good Samaritan */
+.Good-Samaritan {
+	color: #3c6382;
+}
+.Good-Samaritan-bg {
+	background-color: #3c6382;
+}
+
+/* Forest Blues */
+.Forest-Blues {
+	color: #0a3d62;
+}
+.Forest-Blues-bg {
+	background-color: #0a3d62;
+}
+
+/* Paradise Green */
+.Paradise-Green {
+	color: #b8e994;
+}
+.Paradise-Green-bg {
+	background-color: #b8e994;
+}
+
+/* Aurora Green */
+.Aurora-Green {
+	color: #78e08f;
+}
+.Aurora-Green-bg {
+	background-color: #78e08f;
+}
+
+/* Waterfall */
+.Waterfall {
+	color: #38ada9;
+}
+.Waterfall-bg {
+	background-color: #38ada9;
+}
+
+/* Reef Encounter */
+.Reef-Encounter {
+	color: #079992;
+}
+.Reef-Encounter-bg {
+	background-color: #079992;
+}
+
+
+/* ========== German Palette ========== */
+/* Fusion Red */
+.Fusion-Red {
+	color: #fc5c65;
+}
+.Fusion-Red-bg {
+	background-color: #fc5c65;
+}
+
+/* Desire */
+.Desire {
+	color: #eb3b5a;
+}
+.Desire-bg {
+	background-color: #eb3b5a;
+}
+
+/* High Blue */
+.High-Blue {
+	color: #45aaf2;
+}
+.High-Blue-bg {
+	background-color: #45aaf2;
+}
+
+/* Boyzone */
+.Boyzone {
+	color: #2d98da;
+}
+.Boyzone-bg {
+	background-color: #2d98da;
+}
+
+/* Orange Hibiscus */
+.Orange-Hibiscus {
+	color: #fd9644;
+}
+.Orange-Hibiscus-bg {
+	background-color: #fd9644;
+}
+
+/* Beniukon Bronze */
+.Beniukon-Bronze {
+	color: #fa8231;
+}
+.Beniukon-Bronze-bg {
+	background-color: #fa8231;
+}
+
+/* C64 NTSC */
+.C64-NTSC {
+	color: #4b7bec;
+}
+.C64-NTSC-bg {
+	background-color: #4b7bec;
+}
+
+/* Royal Blue */
+.Royal-Blue {
+	color: #3867d6;
+}
+.Royal-Blue-bg {
+	background-color: #3867d6;
+}
+
+/* Flirtatious */
+.Flirtatious {
+	color: #fed330;
+}
+.Flirtatious-bg {
+	background-color: #fed330;
+}
+
+/* NYC Taxi */
+.NYC-Taxi {
+	color: #f7b731;
+}
+.NYC-Taxi-bg {
+	background-color: #f7b731;
+}
+
+/* Lighter Purple */
+.Lighter-Purple {
+	color: #a55eea
+}
+.Lighter-Purple-bg {
+	background-color: #a55eea
+}
+
+/* Gloomy Purple */
+.Gloomy-Purple {
+	color: #8854d0;
+}
+.Gloomy-Purple-bg {
+	background-color: #8854d0;
+}
+
+/* Reptile Green */
+.Reptile-Green {
+	color: #26de81;
+}
+.Reptile-Green-bg {
+	background-color: #26de81;
+}
+
+/* Algal Fuel */
+.Algal-Fuel {
+	color: #20bf6b;
+}
+.Algal-Fuel-bg {
+	background-color: #20bf6b;
+}
+
+/* Twinkle Blue */
+.Twinkle-Blue {
+	color: #d1d8e0;
+}
+.Twinkle-Blue-bg {
+	background-color: #d1d8e0;
+}
+
+/* Innuendo */
+.Innuendo {
+	color: #a5b1c2;
+}
+.Innuendo-bg {
+	background-color: #a5b1c2;
+}
+
+/* Maximum Blue Green */
+.Maximum-Blue-Green {
+	color: #2bcbba;
+}
+.Maximum-Blue-Green-bg {
+	background-color: #2bcbba;
+}
+
+/* Turquoise Topaz */
+.Turquoise-Topaz {
+	color: #0fb9b1;
+}
+.Turquoise-Topaz-bg {
+	background-color: #0fb9b1;
+}
+
+/* Blue Grey */
+.Blue-Grey {
+	color: #778ca3;
+}
+.Blue-Grey-bg {
+	background-color: #778ca3;
+}
+
+/* Blue Horizon */
+.Blue-Horizon {
+	color: #4b6584;
+}
+.Blue-Horizon-bg {
+	background-color: #4b6584;
+}
+
+
+/* ========== Indian Palette ========== */
+/* Orchid Orange */
+.Orchid-Orange {
+	color: #FEA47F;
+}
+.Orchid-Orange-bg {
+	background-color: #FEA47F;
+}
+
+/* Rich Gardenia */
+.Rich-Gardenia {
+	color: #F97F51;
+}
+.Rich-Gardenia-bg {
+	background-color: #F97F51;
+}
+
+/* Fiery Fuchsia */
+.Fiery-Fuchsia {
+	color: #B33771;
+}
+.Fiery-Fuchsia-bg {
+	background-color: #B33771;
+}
+
+/* Magenta Purple */
+.Magenta-Purple {
+	color: #6D214F;
+}
+.Magenta-Purple-bg {
+	background-color: #6D214F;
+}
+
+/* Spiro Disco Ball */
+.Spiro-Disco-Ball {
+	color: #25CCF7;
+}
+.Spiro-Disco-Ball-bg {
+	background-color: #25CCF7;
+}
+
+/* Clear Chill */
+.Clear-Chill {
+	color: #1B9CFC;
+}
+.Clear-Chill-bg {
+	background-color: #1B9CFC;
+}
+
+/* Bluebell */
+.Bluebell {
+	color: #3B3B98;
+}
+.Bluebell-bg {
+	background-color: #3B3B98;
+}
+
+/* Ending Navy Blue */
+.Ending-Navy-Blue {
+	color: #182C61;
+}
+.Ending-Navy-Blue-bg {
+	background-color: #182C61;
+}
+
+/* Honey Glow */
+.Honey-Glow {
+	color: #EAB543;
+}
+.Honey-Glow-bg {
+	background-color: #EAB543;
+}
+
+/* Sarawak White Pepper */
+.Sarawak-White-Pepper {
+	color: #F8EFBA;
+}
+.Sarawak-White-Pepper-bg {
+	background-color: #F8EFBA;
+}
+
+/* Georgia Peach */
+.Georgia-Peach {
+	color: #FD7272;
+}
+.Georgia-Peach-bg {
+	background-color: #FD7272;
+}
+
+/* Sasquatch Socks */
+.Sasquatch-Socks {
+	color: #FC427B;
+}
+.Sasquatch-Socks-bg {
+	background-color: #FC427B;
+}
+
+/* Sweet Garden */
+.Sweet-Garden {
+	color: #55E6C1;
+}
+.Sweet-Garden-bg {
+	background-color: #55E6C1;
+}
+
+/* Keppel */
+.Keppel {
+	color: #58B19F;
+}
+.Keppel-bg {
+	background-color: #58B19F;
+}
+
+/* Oasis Stream */
+.Oasis-Stream {
+	color: #9AECDB;
+}
+.Oasis-Stream-bg {
+	background-color: #9AECDB;
+}
+
+/* Pine Glade */
+.Pine-Glade {
+	color: #BDC581;
+}
+.Pine-Glade-bg {
+	background-color: #BDC581;
+}
+
+/* Falling Star */
+.Falling-Star {
+	color: #CAD3C8;
+}
+.Falling-Star-bg {
+	background-color: #CAD3C8;
+}
+
+/* Ship's Officer */
+.Ship-s-Officer {
+	color: #2C3A47;
+}
+.Ship-s-Officer-bg {
+	background-color: #2C3A47;
+}
+
+/* Bright Ube */
+.Bright-Ube {
+	color: #D6A2E8;
+}
+.Bright-Ube-bg {
+	background-color: #D6A2E8;
+}
+
+/* Highlighter Lavender */
+.Highlighter-Lavender {
+	color: #82589F;
+}
+.Highlighter-Lavender-bg {
+	background-color: #82589F;
+}
+
+
+/* ========== Russian Palette ========== */
+/* Creamy Peach */
+.Creamy-Peach {
+	color: #f3a683;
+}
+.Creamy-Peach-bg {
+	background-color: #f3a683;
+}
+
+
+/* Sawtooth Aak */
+.Sawtooth-Aak {
+	color: #f19066;
+}
+.Sawtooth-Aak-bg {
+	background-color: #f19066;
+}
+
+/* Purple Mountain Majesty */
+.Purple-Mountain-Majesty {
+	color: #786fa6;
+}
+.Purple-Mountain-Majesty-bg {
+	background-color: #786fa6;
+}
+
+/* Purple Corallite */
+.Purple-Corallite {
+	color: #574b90;
+}
+.Purple-Corallite-bg {
+	background-color: #574b90;
+}
+
+/* Rosy Highlight */
+.Rosy-Highlight {
+	color: #f7d794;
+}
+.Rosy-Highlight-bg {
+	background-color: #f7d794;
+}
+
+/* Summertime */
+.Summertime {
+	color: #f5cd79;
+}
+.Summertime-bg {
+	background-color: #f5cd79;
+}
+
+/* Rogue Pink */
+.Rogue-Pink {
+	color: #f8a5c2;
+}
+.Rogue-Pink-bg {
+	background-color: #f8a5c2;
+}
+
+/* Flamingo Pink */
+.Flamingo-Pink {
+	color: #f78fb3;
+}
+.Flamingo-Pink-bg {
+	background-color: #f78fb3;
+}
+
+/* Soft Blue */
+.Soft-Blue {
+	color: #778beb;
+}
+.Soft-Blue-bg {
+	background-color: #778beb;
+}
+
+/* Cornflower */
+.Cornflower {
+	color: #778beb;
+}
+.Cornflower-bg {
+	background-color: #778beb;
+}
+
+/* Squeaky */
+.Squeaky {
+	color: #63cdda;
+}
+.Squeaky-bg {
+	background-color: #63cdda;
+}
+
+/* Blue Curacao */
+.Blue-Curacao {
+	color: #3dc1d3;
+}
+.Blue-Curacao-bg {
+	background-color: #3dc1d3;
+}
+
+
+/* Brewed Mustard */
+.Brewed-Mustard {
+	color: #e77f67;
+}
+.Brewed-Mustard-bg {
+	background-color: #e77f67;
+}
+
+/* Tigerlily */
+.Tigerlily {
+	color: #e15f41;
+}
+.Tigerlily-bg {
+	background-color: #e15f41;
+}
+
+/* Apple Valley */
+.Apple-Valley {
+	color: #ea8685;
+}
+.Apple-Valley-bg {
+	background-color: #ea8685;
+}
+
+/* Porcelain Rose */
+.Porcelain-Rose {
+	color: #e66767;
+}
+.Porcelain-Rose-bg {
+	background-color: #e66767;
+}
+
+/* Old Geranium */
+.Old-Geranium {
+	color: #cf6a87;
+}
+.Old-Geranium-bg {
+	background-color: #cf6a87;
+}
+
+/* Deep Rose */
+.Deep-Rose {
+	color: #c44569;
+}
+.Deep-Rose-bg {
+	background-color: #c44569;
+}
+
+/* Pencil Lead */
+.Pencil-Lead {
+	color: #596275;
+}
+.Pencil-Lead-bg {
+	background-color: #596275;
+}
+
+/* Biscay */
+.Biscay {
+	color: #303952;
+}
+.Biscay-bg {
+	background-color: #303952;
+}
+
+
+/* ========== Spanish Palette ========== */
+/* Jacksons Purple */
+.Jacksons-Purple {
+	color: #40407a;
+}
+.Jacksons-Purple-bg {
+	background-color: #40407a;
+}
+
+/* Lucky Point */
+.Lucky-Point {
+	color: #2c2c54;
+}
+.Lucky-Point-bg {
+	background-color: #2c2c54;
+}
+
+/* Fluorescent Red */
+.Fluorescent-Red {
+	color: #ff5252;
+}
+.Fluorescent-Red-bg {
+	background-color: #ff5252;
+}
+
+/* Eye Of Newt */
+.Eye-Of-Newt {
+	color: #b33939;
+}
+.Eye-Of-Newt-bg {
+	background-color: #b33939;
+}
+
+/* C64 Purple */
+.C64-Purple {
+	color: #706fd3;
+}
+.C64-Purple-bg {
+	background-color: #706fd3;
+}
+
+/* Liberty */
+.Liberty {
+	color: #474787;
+}
+.Liberty-bg {
+	background-color: #474787;
+}
+
+/* Synthetic Pumpkin */
+.Synthetic-Pumpkin {
+	color: #ff793f;
+}
+.Synthetic-Pumpkin-bg {
+	background-color: #ff793f;
+}
+
+/* Chilean Fire */
+.Chilean-Fire {
+	color: #cd6133;
+}
+.Chilean-Fire-bg {
+	background-color: #cd6133;
+}
+
+/* Swan White */
+.Chilean-Fire {
+	color: #cd6133;
+}
+.Chilean-Fire-bg {
+	background-color: #cd6133;
+}
+
+/* Hot Stone */
+.Hot-Stone {
+	color: #aaa69d;
+}
+.Hot-Stone-bg {
+	background-color: #aaa69d;
+}
+
+/* Crocodile Tooth */
+.Crocodile-Tooth {
+	color: #d1ccc0;
+}
+.Crocodile-Tooth-bg {
+	background-color: #d1ccc0;
+}
+
+/* Grey Porcelain */
+.Grey-Porcelain {
+	color: #84817a;
+}
+.Grey-Porcelain-bg {
+	background-color: #84817a;
+}
+
+/* Summer Sky */
+.Summer-Sky {
+	color: #34ace0;
+}
+.Summer-Sky-bg {
+	background-color: #34ace0;
+}
+
+/* Devil Blue */
+.Devil-Blue {
+	color: #227093;
+}
+.Devil-Blue-bg {
+	background-color: #227093;
+}
+
+/* Mandarin Sorbet */
+.Mandarin-Sorbet {
+	color: #ffb142;
+}
+.Mandarin-Sorbet-bg {
+	background-color: #ffb142;
+}
+
+/* Alameda Ochre */
+.Alameda-Ochre {
+	color: #cc8e35;
+}
+.Alameda-Ochre-bg {
+	background-color: #cc8e35;
+}
+
+/* Celestial Green */
+.Celestial-Green {
+	color: #33d9b2;
+}
+.Celestial-Green-bg {
+	background-color: #33d9b2;
+}
+
+/* Palm Springs Splash */
+.Palm-Springs-Splash {
+	color: #218c74;
+}
+.Palm-Springs-Splash-bg {
+	background-color: #218c74;
+}
+
+/* Spiced Butternut */
+.Spiced-Butternut {
+	color: #ffda79;
+}
+.Spiced-Butternut-bg {
+	background-color: #ffda79;
+}
+
+/* Desert */
+.Desert {
+	color: #ccae62;
+}
+.Desert-bg {
+	background-color: #ccae62;
+}
+
+
+/* ========== Swedish Palette ========== */
+/* Highlighter Pink */
+.Highlighter-Pink {
+	color: #ef5777;
+}
+.Highlighter-Pink-bg {
+	background-color: #ef5777;
+}
+
+/* Sizzling Red */
+.Sizzling-Red {
+	color: #f53b57;
+}
+.Sizzling-Red-bg {
+	background-color: #f53b57;
+}
+
+/* Nârenji Orange */
+.Narenji-Orange {
+	color: #ffc048;
+}
+.Narenji-Orange-bg {
+	background-color: #ffc048;
+}
+
+/* Chrome Yellow */
+.Chrome-Yellow {
+	color: #ffa801;
+}
+.Chrome-Yellow-bg {
+	background-color: #ffa801;
+}
+
+/* Dark Periwinkle */
+.Dark-Periwinkle {
+	color: #575fcf;
+}
+.Dark-Periwinkle-bg {
+	background-color: #575fcf;
+}
+
+
+/* Free Speech Blue */
+.Free-Speech-Blue {
+	color: #3c40c6;
+}
+.Free-Speech-Blue-bg {
+	background-color: #3c40c6;
+}
+
+/* Yriel Yellow */
+.Yriel-Yellow {
+	color: #ffdd59;
+}
+.Yriel-Yellow-bg {
+	background-color: #ffdd59;
+}
+
+/* Vibrant Yellow */
+.Vibrant-Yellow {
+	color: #ffd32a;
+}
+.Vibrant-Yellow-bg {
+	background-color: #ffd32a;
+}
+
+/* Megaman */
+.Megaman {
+	color: #4bcffa;
+}
+.Megaman-bg {
+	background-color: #4bcffa;
+}
+
+/* Spiro Disco Ball */
+.Spiro-Disco-Ball {
+	color: #0fbcf9;
+}
+.Spiro-Disco-Ball-bg {
+	background-color: #0fbcf9;
+}
+
+/* Sunset Orange */
+.Sunset-Orange {
+	color: #ff5e57;
+}
+.Sunset-Orange-bg {
+	background-color: #ff5e57;
+}
+
+/* Red Orange */
+.Red-Orange {
+	color: #ff3f34;
+}
+.Red-Orange-bg {
+	background-color: #ff3f34;
+}
+
+/* Fresh Turquoise */
+.Fresh-Turquoise {
+	color: #34e7e4;
+}
+.Fresh-Turquoise-bg {
+	background-color: #34e7e4;
+}
+
+/* Jade Dust */
+.Jade-Dust {
+	color: #00d8d6;
+}
+.Jade-Dust-bg {
+	background-color: #00d8d6;
+}
+
+/* Hint of Elusive Blue */
+.Hint-of-Elusive-Blue {
+	color: #d2dae2;
+}
+.Hint-of-Elusive-Blue-bg {
+	background-color: #d2dae2;
+}
+
+/* London Square */
+.London-Square {
+	color: #808e9b;
+}
+.London-Square-bg {
+	background-color: #808e9b;
+}
+
+/* Minty Green */
+.Minty-Green {
+	color: #0be881;
+}
+.Minty-Green-bg {
+	background-color: #0be881;
+}
+
+/* Green Teal */
+.Green-Teal {
+	color: #05c46b;
+}
+.Green-Teal-bg {
+	background-color: #05c46b;
+}
+
+/* Good Night! */
+.Good-Night {
+	color: #485460;
+}
+.Good-Night-bg {
+	background-color: #485460;
+}
+
+/* Black Pearl */
+.Black-Pearl {
+	color: #1e272e;
+}
+.Black-Pearl-bg {
+	background-color: #1e272e;
+}
+
+
+/* ========== Turkish Palette ========== */
+/* Bright Lilac */
+.Bright-Lilac {
+	color: #cd84f1;
+}
+.Bright-Lilac-bg {
+	background-color: #cd84f1;
+}
+
+/* Light Purple */
+.Light-Purple {
+	color: #c56cf0;
+}
+.Light-Purple-bg {
+	background-color: #c56cf0;
+}
+
+/* Wintergreen */
+.Wintergreen {
+	color: #32ff7e;
+}
+.Wintergreen-bg {
+	background-color: #32ff7e;
+}
+
+/* Weird Green */
+.Weird-Green {
+	color: #3ae374;
+}
+.Weird-Green-bg {
+	background-color: #3ae374;
+}
+
+/* Pretty Please */
+.Pretty-Please {
+	color: #ffcccc;
+}
+.Pretty-Please-bg {
+	background-color: #ffcccc;
+}
+
+/* Young Salmon */
+.Young-Salmon {
+	color: #ffb8b8;
+}
+.Young-Salmon-bg {
+	background-color: #ffb8b8;
+}
+
+/* Electric Blue */
+.Electric-Blue {
+	color: #7efff5;
+}
+.Electric-Blue-bg {
+	background-color: #7efff5;
+}
+
+/* Hammam Blue */
+.Hammam-Blue {
+	color: #67e6dc;
+}
+.Hammam-Blue-bg {
+	background-color: #67e6dc;
+}
+
+/* Light Red */
+.Light-Red {
+	color: #ff4d4d;
+}
+.Light-Red-bg {
+	background-color: #ff4d4d;
+}
+
+/* Red Orange */
+.Red-Orange {
+	color: #ff3838;
+}
+.Red-Orange-bg {
+	background-color: #ff3838;
+}
+
+/* Neon Blue */
+.Neon-Blue {
+	color: #18dcff;
+}
+.Neon-Blue-bg {
+	background-color: #18dcff;
+}
+
+/* Spiro Disco Ball */
+.Spiro-Disco-Ball {
+	color: #17c0eb;
+}
+.Spiro-Disco-Ball-bg {
+	background-color: #17c0eb;
+}
+
+/* Mandarin Sorbet */
+.Mandarin-Sorbet {
+	color: #ffaf40;
+}
+.Mandarin-Sorbet-bg {
+	background-color: #ffaf40;
+}
+
+/* Radiant Yellow */
+.Radiant-Yellow {
+	color: #ff9f1a;
+}
+.Radiant-Yellow-bg {
+	background-color: #ff9f1a;
+}
+
+/* Light Slate Blue */
+.Light-Slate-Blue {
+	color: #7d5fff;
+}
+.Light-Slate-Blue-bg {
+	background-color: #7d5fff;
+}
+
+/* Light Indigo */
+.Light-Indigo {
+	color: #7158e2;
+}
+.Light-Indigo-bg {
+	background-color: #7158e2;
+}
+
+/* Unmellow Yellow */
+.Unmellow-Yellow {
+	color: #fffa65;
+}
+.Unmellow-Yellow-bg {
+	background-color: #fffa65;
+}
+
+/* Dorn Yellow */
+.Dorn-Yellow {
+	color: #fff200;
+}
+.Dorn-Yellow-bg {
+	background-color: #fff200;
+}
+
+/* Shadowed Steel */
+.Shadowed-Steel {
+	color: #4b4b4b;
+}
+.Shadowed-Steel-bg {
+	background-color: #4b4b4b;
+}
+
+/* Baltic Sea */
+.Baltic-Sea {
+	color: #3d3d3d;
+}
+.Baltic-Sea-bg {
+	background-color: #3d3d3d;
+}
