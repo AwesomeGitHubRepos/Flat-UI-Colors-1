@@ -1,1 +1,170 @@
 @charset "UTF-8";
+
+/*
+	Name 			: Turkish Palette
+	Date 			: 13 March 2019
+	Author 			: Amir Shokri
+	Email 			: amirsh.nll@gmail.com
+	Url 			: https://github.com/amirsh-nll/Flat-UI-Colors
+	Description 	: Turkish Palette by Tamer Köseli from 🇹🇷 (https://flatuicolors.com/palette/tr)
+*/
+
+/* Bright Lilac */
+.Bright-Lilac {
+	color: #cd84f1;
+}
+.Bright-Lilac-bg {
+	background-color: #cd84f1;
+}
+
+/* Light Purple */
+.Light-Purple {
+	color: #c56cf0;
+}
+.Light-Purple-bg {
+	background-color: #c56cf0;
+}
+
+/* Wintergreen */
+.Wintergreen {
+	color: #32ff7e;
+}
+.Wintergreen-bg {
+	background-color: #32ff7e;
+}
+
+/* Weird Green */
+.Weird-Green {
+	color: #3ae374;
+}
+.Weird-Green-bg {
+	background-color: #3ae374;
+}
+
+/* Pretty Please */
+.Pretty-Please {
+	color: #ffcccc;
+}
+.Pretty-Please-bg {
+	background-color: #ffcccc;
+}
+
+/* Young Salmon */
+.Young-Salmon {
+	color: #ffb8b8;
+}
+.Young-Salmon-bg {
+	background-color: #ffb8b8;
+}
+
+/* Electric Blue */
+.Electric-Blue {
+	color: #7efff5;
+}
+.Electric-Blue-bg {
+	background-color: #7efff5;
+}
+
+/* Hammam Blue */
+.Hammam-Blue {
+	color: #67e6dc;
+}
+.Hammam-Blue-bg {
+	background-color: #67e6dc;
+}
+
+/* Light Red */
+.Light-Red {
+	color: #ff4d4d;
+}
+.Light-Red-bg {
+	background-color: #ff4d4d;
+}
+
+/* Red Orange */
+.Red-Orange {
+	color: #ff3838;
+}
+.Red-Orange-bg {
+	background-color: #ff3838;
+}
+
+/* Neon Blue */
+.Neon-Blue {
+	color: #18dcff;
+}
+.Neon-Blue-bg {
+	background-color: #18dcff;
+}
+
+/* Spiro Disco Ball */
+.Spiro-Disco-Ball {
+	color: #17c0eb;
+}
+.Spiro-Disco-Ball-bg {
+	background-color: #17c0eb;
+}
+
+/* Mandarin Sorbet */
+.Mandarin-Sorbet {
+	color: #ffaf40;
+}
+.Mandarin-Sorbet-bg {
+	background-color: #ffaf40;
+}
+
+/* Radiant Yellow */
+.Radiant-Yellow {
+	color: #ff9f1a;
+}
+.Radiant-Yellow-bg {
+	background-color: #ff9f1a;
+}
+
+/* Light Slate Blue */
+.Light-Slate-Blue {
+	color: #7d5fff;
+}
+.Light-Slate-Blue-bg {
+	background-color: #7d5fff;
+}
+
+/* Light Indigo */
+.Light-Indigo {
+	color: #7158e2;
+}
+.Light-Indigo-bg {
+	background-color: #7158e2;
+}
+
+/* Unmellow Yellow */
+.Unmellow-Yellow {
+	color: #fffa65;
+}
+.Unmellow-Yellow-bg {
+	background-color: #fffa65;
+}
+
+/* Dorn Yellow */
+.Dorn-Yellow {
+	color: #fff200;
+}
+.Dorn-Yellow-bg {
+	background-color: #fff200;
+}
+
+/* Shadowed Steel */
+.Shadowed-Steel {
+	color: #4b4b4b;
+}
+.Shadowed-Steel-bg {
+	background-color: #4b4b4b;
+}
+
+/* Baltic Sea */
+.Baltic-Sea {
+	color: #3d3d3d;
+}
+.Baltic-Sea-bg {
+	background-color: #3d3d3d;
+}
